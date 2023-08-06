@@ -7,7 +7,7 @@ It also provides a feature to generate reports based on different criteria.
 
 Author: Teksong Eap
 
-Contact Information: teap@wgu.edu
+Contact Information: teap(@)wgu(.)edu
 
 Student Application Version: 2.0
 
