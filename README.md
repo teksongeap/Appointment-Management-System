@@ -1,4 +1,4 @@
-Title: C195 Appointment Scheduler
+Title: Appointment Scheduler
 
 Purpose of the Application:
 This application is designed to manage customers and their appointments.
