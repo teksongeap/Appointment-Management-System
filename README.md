@@ -1,4 +1,4 @@
-Title: Appointment Scheduler
+Title: Appointment Management System
 
 Purpose of the Application:
 This application is designed to manage customers and their appointments.
