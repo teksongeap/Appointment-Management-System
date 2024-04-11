@@ -7,10 +7,6 @@ It also provides a feature to generate reports based on different criteria.
 
 Author: Teksong Eap
 
-Contact Information: teap(@)wgu(.)edu
-
-Student Application Version: 2.0
-
 Date: July 18, 2023
 
 IDE: Intellij IDEA Community Edition 2021.1.3 x64
